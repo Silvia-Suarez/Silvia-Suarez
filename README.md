@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey😊, I'm Silvia Natalia
 
-<!--
-**Silvia-Suarez/Silvia-Suarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer with 4+ years of professional experience building modern, scalable, and user-focused web applications.
 
-Here are some ideas to get you started:
+I specialize in **React**, **TypeScript**, **Next.js**, and modern CSS architectures. I enjoy creating clean, maintainable codebases and transforming complex requirements into intuitive and elegant interfaces. I’m driven by continuous learning and delivering high-quality frontend solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Based in Medellín, Colombia  
+💬 Ask me about frontend development, UI architecture, or modern web technologies  
+🌱 Currently deepening my knowledge in performance optimization, advanced frontend patterns, and cloud-based workflows  
+
+### 🛠 Tech Stack
+- **Languages:** JavaScript, TypeScript, HTML, CSS  
+- **Frameworks & Libraries:** React, Next.js, StencilJS, Tailwind CSS, Framer Motion  
+- **Tools & Platforms:** Git, GitHub, AWS, Vercel, Docker  
+- **Practices:** Component-driven development, clean architecture, responsive design
+
+### 🌐 Languages
+- Spanish: Native  
+- English: Professional working proficiency  
+
+Always open to collaboration and new challenges.
